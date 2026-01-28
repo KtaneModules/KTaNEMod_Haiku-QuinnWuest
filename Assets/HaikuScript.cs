@@ -142,7 +142,6 @@ public class HaikuScript : MonoBehaviour
         "This module, it says:\n“Gradually watermelon.”\nEnter Shape of You.",
         "I have pressed stumble.\nRed is flashing on the right.\nIs that the Pacer Test?",
         "Here's a Crazy Talk.\nI can't help but notice\nthat the switch looks weird.",
-        "Simon Shouts. How neat!\nBut what in the heck is a\nde Bruijn torus?",
         "Shape ID, how sweet.\nI'll just enter “triangle.”\nThe enter key is stuck.",
         "You have a Fishing?\nHere's a very funny trick.\nPress “C” while selected.",
         "Macro Memory.\nThere’s ten of them on the bomb.\nPress label seventeen.",
