@@ -191,7 +191,7 @@ public class HaikuScript : MonoBehaviour
         "Duck Konundrum stage.\nPaint the small watering can\nwith the color yellow.",
         "Voronoi Maze\nin a team bomb setting.\nWhat heck do we do?",
         "Let’s play a match of\nrock, paper, scissors, lizard,\nand cannot forget Spock.",
-        "I have a Murder.\nBody in conservatory.\nNo lit TRN.",
+        "I have Murder.\nBody in conservatory.\nNo lit TRN.",
         "It’s The Sporglers!\nThey’re my favorite funny guys!\nHoward, Gunther, and Gromb!"
     };
 
