@@ -88,7 +88,6 @@ public class HaikuScript : MonoBehaviour
         "What have I unleashed?\nI’ve opened Pandora’s Box.\nMay God forgive me.",
         "“Write a fake haiku.”\n“It will be easy,” they said.\nBoy how they were wrong.",
         "This is a Haiku.\nAsew54321\nAnd Quinn Wuest made this.",
-        "Ferdinand Johnson.\nHe was not a real person.\nIt was all a lie.",
         "Lapis Lazuli!\nCyan! Azure! Celadon!\nI am out of blues.",
         "she strogan me off\ntill i beef! EXTREMELY LOUD\nINCORRECT BUZZER",
         "3D modeled chip\nconstantly spinning clockwise\nblasting Funkytown.",
@@ -192,7 +191,8 @@ public class HaikuScript : MonoBehaviour
         "Voronoi Maze\nin a team bomb setting.\nWhat heck do we do?",
         "Let’s play a match of\nrock, paper, scissors, lizard,\nand cannot forget Spock.",
         "I have Murder.\nBody in conservatory.\nNo lit TRN.",
-        "It’s The Sporglers!\nThey’re my favorite funny guys!\nHoward, Gunther, and Gromb!"
+        "It’s The Sporglers!\nThey’re my favorite funny guys!\nHoward, Gunther, and Gromb!",
+        "Ferdinand Johnson.\nHe was a fake person.\nIt was all a lie.",
     };
 
     private void Start()
